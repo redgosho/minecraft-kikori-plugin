@@ -1,0 +1,5 @@
+main: red.gosho.kikori.App
+name: Kikori
+version: "0.1"
+api: 1.16.1
+api-version: 1.16
